@@ -1,6 +1,5 @@
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\Products.Domain.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\Products.Domain.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.csprojResolveAssemblyReference.cache
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.pdb
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\Products.Domain.dll.config
@@ -10,3 +9,4 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\En
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\es\EntityFramework.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.csproj.CoreCompileInputs.cache

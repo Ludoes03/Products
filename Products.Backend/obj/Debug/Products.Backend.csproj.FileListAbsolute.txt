@@ -116,3 +116,4 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\P
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.pdb
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll.config
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.csproj.CoreCompileInputs.cache
