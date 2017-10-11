@@ -125,3 +125,7 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\es\System.W
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.csprojResolveAssemblyReference.cache
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.pdb
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.pdb
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll.config
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.csproj.CoreCompileInputs.cache

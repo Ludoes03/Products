@@ -29,7 +29,7 @@ namespace Products.Domain
 
         public DateTime LastPurchase { get; set; }
 
-        [Display(Name = "Is Active")]
+        [Display(Name = "Stock")]
         public double Stock { get; set; }
 
         [DataType(DataType.MultilineText)]

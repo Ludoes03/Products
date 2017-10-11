@@ -10,3 +10,6 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\En
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\es\EntityFramework.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\es\EntityFramework.SqlServer.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\obj\Debug\Products.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Domain\bin\Debug\Newtonsoft.Json.xml
