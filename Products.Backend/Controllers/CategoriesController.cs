@@ -11,6 +11,7 @@ using Products.Domain;
 
 namespace Products.Backend.Models
 {
+    [Authorize (Users = "ludoescrich@hotmail.com")]
     public class CategoriesController : Controller
     {
         private DataContextLocal db = new DataContextLocal();

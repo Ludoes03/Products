@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Products.Domain
 {
+    using Newtonsoft.Json;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     public class Category
@@ -20,6 +21,7 @@ namespace Products.Domain
         [Index("Category_Description_Index", IsUnique = true)]
         public string Description { get; set; }
 
+        [JsonIgnore]
         public virtual ICollection<Product> Products { get; set; }
     }
 }

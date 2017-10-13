@@ -54,6 +54,7 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Microso
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Newtonsoft.Json.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Owin.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Helpers.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Mvc.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Optimization.dll
@@ -62,7 +63,10 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.WebPages.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.WebPages.Razor.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\WebGrease.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.pdb
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll.config
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Newtonsoft.Json.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Helpers.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Mvc.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.Optimization.xml
@@ -71,7 +75,6 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.WebPages.Deployment.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\System.Web.WebPages.Razor.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Antlr3.Runtime.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Newtonsoft.Json.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\EntityFramework.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\EntityFramework.SqlServer.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Microsoft.AspNet.Identity.Core.xml
@@ -111,9 +114,6 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\es\Micr
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.csprojResolveAssemblyReference.cache
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.csproj.CoreCompileInputs.cache
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\bin\Products.Domain.dll.config
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.Backend\obj\Debug\Products.Backend.csproj.CoreCompileInputs.cache

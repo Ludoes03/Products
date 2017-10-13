@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Products.Domain
+﻿namespace Products.Domain
 {
+    using Newtonsoft.Json;
+    using System;
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+
     public class Product
     {
         [Key]
@@ -24,6 +21,8 @@ namespace Products.Domain
         [DisplayFormat(DataFormatString = "{0:C2}", ApplyFormatInEditMode = false)]
         public decimal Price { get; set; }
 
+        public string Image { get; set; }
+
         [Display(Name = "Is Active")]
         public bool IsActive { get; set; }
 
@@ -35,6 +34,7 @@ namespace Products.Domain
         [DataType(DataType.MultilineText)]
         public string Remarks { get; set; }
 
+        [JsonIgnore]
         public virtual Category Category { get; set; }
     }
 }

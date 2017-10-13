@@ -54,6 +54,7 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Microsoft.O
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Newtonsoft.Json.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Owin.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Net.Http.Formatting.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Web.Helpers.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Web.Http.dll
@@ -66,6 +67,8 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Web.
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Web.WebPages.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Web.WebPages.Razor.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\WebGrease.dll
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.pdb
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll.config
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Newtonsoft.Json.xml
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\System.Net.Http.Formatting.xml
@@ -123,9 +126,6 @@ C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\es\Microsof
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\es\System.Web.Http.Owin.resources.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.csprojResolveAssemblyReference.cache
+C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.csproj.CoreCompileInputs.cache
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.dll
 C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.pdb
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\bin\Products.Domain.dll.config
-C:\Users\ESCRICH\Documents\Tutoriales Zulu\Products\Products.API\obj\Debug\Products.API.csproj.CoreCompileInputs.cache
